@@ -19,6 +19,10 @@
 
 // $TODO: include changes for 2018 Halloween.
 
+// Comment reflecting 2019-01-31 Submission one change to do something
+// ultra fantastic that can only happen via command line because
+// that's the test. Whoo.
+
 #include <SPI.h>
 #include <Adafruit_GFX.h>
 #ifdef ARDUINO_ARCH_SAMD
