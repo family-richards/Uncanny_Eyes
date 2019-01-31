@@ -17,7 +17,7 @@
 // Inspired by David Boccabella's (Marcwolf) hybrid servo/OLED eye concept.
 //--------------------------------------------------------------------------
 
-// $TODO: include changes for 2018 Halloween.
+// Should have all 2018 changes now.
 
 // Comment reflecting 2019-01-31 Submission one change to do something
 // ultra fantastic that can only happen via command line because
